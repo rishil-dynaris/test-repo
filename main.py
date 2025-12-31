@@ -1,5 +1,5 @@
 def main():
-    print("Hello from demo-repo!")
+    print("Hello from test-repo!")
 
 
 if __name__ == "__main__":
